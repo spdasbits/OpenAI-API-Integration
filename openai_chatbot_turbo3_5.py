@@ -5,7 +5,7 @@ import socket
 from openpyxl import load_workbook
 import socket
 
-openai.api_key = "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"
+openai.api_key = "sk-baKHflUU8HZ34YTtpOniT3BlbkFJdIdfykrKf2"
 
 user_host_name = socket.gethostname()
 start_sequence = "\nAI:"
