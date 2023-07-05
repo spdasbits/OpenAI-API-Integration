@@ -14,8 +14,8 @@ app = FastAPI()
 
 
 user_host_name = socket.gethostname()
-# openai.api_key = os.getenv("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")
-openai.api_key = "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"
+# openai.api_key = os.getenv("sk-sWpl60RLGgYXfh5lw9paT3BlbkFJ41xepOc")
+openai.api_key = "sk-baKHflUU8HZ34YTtpOniT3BlbkFJ"
 
 # dataframe1 = pd.read_excel('Book1.xlsx')
 # context=dataframe1
